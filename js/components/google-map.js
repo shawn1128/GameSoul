@@ -65,7 +65,7 @@ var GoogleMap = function() {
                     Math.floor(worldCoordinate.y * scale / TILE_SIZE));
 
                 return [
-                    '台中市北區文心路四段212號3樓之2'
+                    '台中市北屯區崇德路二段'
                 ].join('<br>');
             }
 
